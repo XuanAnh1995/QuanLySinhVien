@@ -1,0 +1,11 @@
+CREATE DATABASE Polypro
+GO
+
+USE Polypro
+GO
+
+CREATE TABLE HocVien
+(
+	
+)
+GO
